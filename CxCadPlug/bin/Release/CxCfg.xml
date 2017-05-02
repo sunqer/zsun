@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8"?>
+<CadExport>
+	<layers>
+		<layer name="综合管网"/>
+		<layer name="排水管网"/>
+		<layer name="电力管网"/>
+		<layer name="燃气管网"/>
+		<layer name="电缆线"/>
+		<layer name="电信管网"/>
+		<layer name="供暖管网"/>
+		<layer name="供水管网"/>
+		<layer name="路灯管网"/>
+		<layer name="消防管网"/>
+	</layers>
+	<compare>
+		<!--此配置项代表对照表的名称和其所在的位置-->
+		<table name="电缆对照表" value=""/>
+		<table name="电信对照表" value=""/>
+		<table name="供暖对照表" value=""/>
+		<table name="供水对照表" value=""/>
+		<table name="路灯对照表" value=""/>
+		<table name="排水对照表" value=""/>
+		<table name="消防对照表" value=""/>
+	</compare>
+	<defaultColumn>
+	    <!-- 此项代表导出的excel表中需要的额外的字段信息, 分点线注记表-->
+		<point>
+			<column name="管点号" />
+			<column name="附属物" />
+			<column name="规格型号" />
+			<column name="连通性" />
+			<column name="建设日期" />
+			<column name="维护人员" />
+			<column name="维护日期" />
+			<column name="井深" />
+			<column name="井径" />
+			<column name="井盖尺寸" />
+			<column name="井盖材质" />
+			<column name="权属单位" />
+			<column name="道路名称" />
+			<column name="测区" />
+			<column name="探测日期" />
+			<column name="备注" />
+			<column name="备注1" />
+			<column name="备注2" />
+		</point>
+		<line>
+			<column name="材质" />
+			<column name="管径" />
+			<column name="管线长度" />
+			<column name="埋设方式" />
+			<column name="套管尺寸" />
+			<column name="断面宽" />
+			<column name="断面高" />
+			<column name="压力/电压" />
+			<column name="条数/流向" />
+			<column name="总孔数/已用孔数" />
+			<column name="权属单位" />
+			<column name="道路名称" />
+			<column name="建设日期" />
+			<column name="维护人员" />
+			<column name="维护日期" />
+			<column name="管底高程" />
+			<column name="管尾高程" />
+			<column name="测区" />
+			<column name="备注" />
+			<column name="备注1" />
+			<column name="备注2" />
+		</line>
+		<note>
+			<column name="" />
+			<column name="" />
+			<column name="" />
+		</note>
+	</defaultColumn>
+</CadExport>

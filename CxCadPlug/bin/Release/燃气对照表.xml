@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Compare>
+	<blocks>
+		<block id="Dra22" name="三通"/>
+		<block id="1" name="阀门"/>
+		<block id="2" name="弯头"/>
+		<block id="3" name="二通"/>
+		<block id="4" name="雨水篦子"/>
+	</blocks>
+</Compare>

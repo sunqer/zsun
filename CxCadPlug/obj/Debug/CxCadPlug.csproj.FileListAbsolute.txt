@@ -1,0 +1,8 @@
+D:\CSProject\11-ActiveX\CxCadPlugSharp\CxCadPlug\bin\Debug\CxCadPlug.dll
+D:\CSProject\11-ActiveX\CxCadPlugSharp\CxCadPlug\bin\Debug\CxCadPlug.pdb
+D:\CSProject\11-ActiveX\CxCadPlugSharp\CxCadPlug\bin\Debug\AcCui.dll
+D:\CSProject\11-ActiveX\CxCadPlugSharp\CxCadPlug\obj\Debug\CxCadPlug.csproj.ResolveComReference.cache
+D:\CSProject\11-ActiveX\CxCadPlugSharp\CxCadPlug\obj\Debug\CxCadPlug.export2ExcelFrm.resources
+D:\CSProject\11-ActiveX\CxCadPlugSharp\CxCadPlug\obj\Debug\CxCadPlug.csproj.GenerateResource.Cache
+D:\CSProject\11-ActiveX\CxCadPlugSharp\CxCadPlug\obj\Debug\CxCadPlug.dll
+D:\CSProject\11-ActiveX\CxCadPlugSharp\CxCadPlug\obj\Debug\CxCadPlug.pdb
